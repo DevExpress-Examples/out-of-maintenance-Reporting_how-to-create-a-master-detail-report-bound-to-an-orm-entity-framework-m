@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/E5059/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/E5059/Controllers/HomeController.vb))
+* **[CategoryProductsReport.cs](./CS/E5059/Reports/CategoryProductsReport.cs) (VB: [CategoryProductsReport.vb](./VB/E5059/Reports/CategoryProductsReport.vb))**
+* [_DocumentViewerPartial.cshtml](./CS/E5059/Views/Home/_DocumentViewerPartial.cshtml)
+* [Index.cshtml](./CS/E5059/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # How to create a master-detail report bound to an ORM (Entity Framework) model in MVC applications
 
 
