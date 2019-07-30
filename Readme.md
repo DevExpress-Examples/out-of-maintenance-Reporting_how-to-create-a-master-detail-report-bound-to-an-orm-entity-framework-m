@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to create a master-detail report bound to an ORM (Entity Framework) model in MVC applications
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e5059)**
+**[[Run Online]](https://codecentral.devexpress.com/e5059/)**
 <!-- run online end -->
 
 
