@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128596361/14.1.3%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E5059)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -12,9 +7,6 @@
 * [Index.cshtml](./CS/E5059/Views/Home/Index.cshtml)
 <!-- default file list end -->
 # How to create a master-detail report bound to an ORM (Entity Framework) model in MVC applications
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e5059)**
-<!-- run online end -->
 
 
 <p>This example demonstrates how to create a master-detail report bound to Object Relational Model in ASP.NET MVC applications.</p><p>This example uses the Entity Framework ORM model to provide a report with data, but you can use any object model instead.</p><p>Bind your XtraReport to your model master class by using the approach suggested in the <a href="http://documentation.devexpress.com/#XtraReports/CustomDocument5194/BindingSource"><u>Providing Data to a Web Report => Design-Time Data Binding Using BindingSource</u></a> help topic. After your report is bound to the master class you can easily insert a detail report band by using the context menu in the report designer, as shown below:<br />
